@@ -7,7 +7,7 @@ declare global {
   }
 }
 
-const CONTRACT_ADDRESS = "0xYourDeployedContractAddress";
+const CONTRACT_ADDRESS = "0x42F06B60d6B32d2F9E548219F88c1aee2FF76732";
 const ABI = [
   "function answer(bool _yes) external",
   "function isSheMyGirlfriend() external view returns (bool)",
